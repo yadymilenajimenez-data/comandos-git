@@ -15,3 +15,6 @@
 
 6. si quieres moverte entre commits (versiones y ramas) lo haces con:
     git checkout "commit o nombre de la rama"
+
+7. unir cambios entre ramas (primero estar ubicados en la rama en la cual quieres traer los cambios de la nueva rama)
+    git merge "nombre-rama"
