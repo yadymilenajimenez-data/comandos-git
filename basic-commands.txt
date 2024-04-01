@@ -1,2 +1,5 @@
 1. iniciar repositorio 
     git init
+
+2. agregar archivos a git (tenerlos en el radar)
+    git add .
