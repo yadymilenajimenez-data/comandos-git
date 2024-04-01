@@ -3,3 +3,6 @@
 
 2. agregar archivos a git (tenerlos en el radar)
     git add .
+
+3. crear un commit (una version en la historia del archivo)
+    git commit -m "aqui va el mensaje"
