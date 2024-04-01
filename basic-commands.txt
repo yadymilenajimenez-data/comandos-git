@@ -18,3 +18,6 @@
 
 7. unir cambios entre ramas (primero estar ubicados en la rama en la cual quieres traer los cambios de la nueva rama)
     git merge "nombre-rama"
+
+8. subir cambios a github (hace esto despues de hacer un git add . y un commit -m )
+    git push
