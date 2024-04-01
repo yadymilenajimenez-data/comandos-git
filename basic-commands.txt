@@ -6,3 +6,12 @@
 
 3. crear un commit (una version en la historia del archivo)
     git commit -m "aqui va el mensaje"
+
+4. mirar todos los commits de un archivo
+    git log
+
+5. crear una nueva rama
+    git checkout -b "nombre-de-la-rama "
+
+6. si quieres moverte entre commits (versiones y ramas) lo haces con:
+    git checkout "commit o nombre de la rama"
